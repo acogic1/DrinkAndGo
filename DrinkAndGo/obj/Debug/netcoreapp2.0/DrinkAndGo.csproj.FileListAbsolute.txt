@@ -1,0 +1,11 @@
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.deps.json
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.runtimeconfig.json
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.runtimeconfig.dev.json
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.dll
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.pdb
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.csprojResolveAssemblyReference.cache
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.csproj.CoreCompileInputs.cache
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.AssemblyInfoInputs.cache
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.AssemblyInfo.cs
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.dll
+c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.pdb
