@@ -38,7 +38,13 @@ namespace DrinkAndGo
 
             services.AddTransient<IDrinkRepository, DrinkRepository>();
             services.AddTransient<ICategoryRepository, CategoryRepository>();
+
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddScoped(sp => ShoppingCart.GetCart(sp));
+
             services.AddMvc();
+            services.AddMemoryCache();
+            services.AddSession();
         }
 
 
@@ -49,6 +55,7 @@ namespace DrinkAndGo
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseStaticFiles();
+            app.UseSession();
             app.UseMvcWithDefaultRoute();
 
 

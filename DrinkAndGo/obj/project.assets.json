@@ -12595,11 +12595,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\adem\\source\\repos\\DrinkAndGo\\DrinkAndGo\\DrinkAndGo.csproj",
+      "projectUniqueName": "C:\\Users\\adem\\Documents\\GitHub\\DrinkAndGo\\DrinkAndGo\\DrinkAndGo.csproj",
       "projectName": "DrinkAndGo",
-      "projectPath": "C:\\Users\\adem\\source\\repos\\DrinkAndGo\\DrinkAndGo\\DrinkAndGo.csproj",
+      "projectPath": "C:\\Users\\adem\\Documents\\GitHub\\DrinkAndGo\\DrinkAndGo\\DrinkAndGo.csproj",
       "packagesPath": "C:\\Users\\adem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adem\\source\\repos\\DrinkAndGo\\DrinkAndGo\\obj\\",
+      "outputPath": "C:\\Users\\adem\\Documents\\GitHub\\DrinkAndGo\\DrinkAndGo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

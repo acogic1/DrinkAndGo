@@ -9,3 +9,14 @@ c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAn
 c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.AssemblyInfo.cs
 c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.dll
 c:\users\adem\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.pdb
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.deps.json
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.runtimeconfig.json
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.runtimeconfig.dev.json
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.dll
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\bin\Debug\netcoreapp2.0\DrinkAndGo.pdb
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.csprojResolveAssemblyReference.cache
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.csproj.CoreCompileInputs.cache
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.AssemblyInfoInputs.cache
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.AssemblyInfo.cs
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.dll
+C:\Users\adem\Documents\GitHub\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp2.0\DrinkAndGo.pdb
