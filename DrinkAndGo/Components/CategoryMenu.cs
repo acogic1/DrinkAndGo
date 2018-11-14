@@ -15,7 +15,7 @@ namespace DrinkAndGo.Components
         {
             _categoryRepository = categoryRepository;
         }
-
+        //stavljamo u view
         public IViewComponentResult Invoke()
         {
             var categories = _categoryRepository.Categories.OrderBy(p => p.CategoryName);
